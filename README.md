@@ -4,3 +4,4 @@
 - Commit 2
 - Commit 3
 - Bad commit
+- Commit 4
